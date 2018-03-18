@@ -80,7 +80,7 @@ Shows how very little you probably know about c++
 
 [Pointer Aliasing](https://en.wikipedia.org/wiki/Pointer_aliasing)
 
-[Bit hacks]http://graphics.stanford.edu/~seander/bithacks.html
+[Bit hacks](http://graphics.stanford.edu/~seander/bithacks.html)
 
 [Premature Optimzation](https://ubiquity.acm.org/article.cfm?id=1513451)
 
@@ -186,7 +186,7 @@ Look at all the gpu gems books
 [GDC Vault](http://gdcvault.com/)
 Bunch of videos/talks on different topics in the gaming industry
 
-[Course on Raytracing/Rendering)(https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
+[Course on Raytracing/Rendering](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
 
 [Pixar Research papers](http://graphics.pixar.com/library/index.html)
 
@@ -203,6 +203,7 @@ Bunch of videos/talks on different topics in the gaming industry
 # Programming tools
 [Vtune](https://software.intel.com/en-us/intel-vtune-amplifier-xe)
 Now free
+
 [Valgrind](http://valgrind.org/)
 
 [Cpp Check](http://cppcheck.sourceforge.net/)
