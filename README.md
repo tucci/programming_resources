@@ -150,7 +150,8 @@ Interesting to browse through
 
 
 
-# Graphic Resources
+# Computer Graphics Resources
+[Graphic Programmer Interview Questions](https://erkaman.github.io/posts/junior_graphics_programmer_interview.html)
 
 [Learn opengl](https://learnopengl.com/)
 
