@@ -1,5 +1,13 @@
 # programming_resources
-A list of links to keep track of good resources for programming 
+A list of links to keep track of good resources for programming, studying, learning, and research. 
+
+This is just a place for me to keep track of links and resources that I already know, resources that come in handy, resources that I want to learn from, or good resources to start doing more research in.
+
+This list is no means exhaustive, and is not really geared toward a specific topic. The list just keeps track of topics that I find interesting, or want to look in to.
+
+However, if there is a resource that is useful or builds on top of another resource/link here, please submit a pull request. There is a lot I want to know, and a lot of stuff I don't know but want to know.
+
+As of right now all the links and topics are just scatterd in this one file, but as I get more and more resources, I hope to seperate these into different files and folders.
 
 # Good starter links
 
