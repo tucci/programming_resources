@@ -52,6 +52,12 @@ Shows how very little you probably know about c++
 
 [C Preprocessor](https://gcc.gnu.org/onlinedocs/cpp/index.html#Top)
 
+[Translation Units](https://www.youtube.com/watch?v=N4khTYkTwtI&index=4&list=PLRwVmtr-pp05Bl0j6lwXd8tU754nUEB5P)
+
+[Translation Units Video Explanation](https://www.youtube.com/watch?v=N4khTYkTwtI&index=4&list=PLRwVmtr-pp05Bl0j6lwXd8tU754nUEB5P)
+
+[Static/Dynamic Linking Video Explanation](https://www.youtube.com/watch?v=Jzh4ZULXsvo&list=PLRwVmtr-pp05Bl0j6lwXd8tU754nUEB5P&index=5)
+
 # C#
 [Learning C# from a C++ Background](https://msdn.microsoft.com/en-us/library/yyaad03b(v=vs.90).aspx?f=255&MSPPError=-2147217396)
 
@@ -63,6 +69,8 @@ Shows how very little you probably know about c++
 [Understading CPU Caches](https://en.wikipedia.org/wiki/CPU_cache)
 
 [Virtual Memory](https://en.wikipedia.org/wiki/Virtual_memory)
+
+[Translation Lookaside Buffer](https://en.wikipedia.org/wiki/Translation_lookaside_buffer)
 
 [Latency Numbers Every Programmer Should know](https://gist.github.com/jboner/2841832)
 
