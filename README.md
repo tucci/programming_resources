@@ -26,7 +26,7 @@ As of right now all the links and topics are just scatterd in this one file, but
 [Wikibooks on Computer Science](https://en.wikibooks.org/wiki/Subject:Computer_science)
 
 
-#Video Playlists
+# Video Playlists
 
 [Bitwise - Playlist](https://www.youtube.com/playlist?list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX)
 
