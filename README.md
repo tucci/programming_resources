@@ -105,7 +105,7 @@ Shows how very little you probably know about c++
 
 [Bit hacks](http://graphics.stanford.edu/~seander/bithacks.html)
 
-[Premature Optimzation](https://ubiquity.acm.org/article.cfm?id=1513451)
+
 
 
 # Memory Management 
@@ -134,6 +134,8 @@ Shows how very little you probably know about c++
 
 #### Allocation
 
+[Memory Arenas](https://stackoverflow.com/questions/12825148/what-is-the-meaning-of-the-term-arena-in-relation-to-memory)
+
 [List Of Allocators](https://github.com/mtrebi/memory-allocators)
 
 [List Allocators + code(Games)](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/c-custom-memory-allocation-r3010/)
@@ -142,7 +144,7 @@ Shows how very little you probably know about c++
 
 [More Slides on Allocation](http://www.scs.stanford.edu/07au-cs140/notes/l10.pdf)
 
-[Stretchy Buffers](https://github.com/nothings/stb/blob/master/stretchy_buffer.h)
+
 
 
 # Data Oriented Design
@@ -160,6 +162,17 @@ Shows how very little you probably know about c++
 [Youtube playlist on Optimization](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWPmA00yqu9wiCREj4Of_1F8)
 
 [Wikibook on x86 Assembly](https://en.wikibooks.org/wiki/X86_Disassembly)
+
+[Premature Optimzation](https://ubiquity.acm.org/article.cfm?id=1513451)
+
+[String Interning](https://en.wikipedia.org/wiki/String_interning)
+Saving one copy of a string, then using pointer compares instead of string compares
+
+
+# Data structures
+
+[Stretchy Buffers](https://github.com/nothings/stb/blob/master/stretchy_buffer.h)
+
 
 
 # Compilers
