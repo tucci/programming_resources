@@ -64,6 +64,11 @@ Shows how very little you probably know about c++
 
 [Static/Dynamic Linking Video Explanation](https://www.youtube.com/watch?v=Jzh4ZULXsvo&list=PLRwVmtr-pp05Bl0j6lwXd8tU754nUEB5P&index=5)
 
+#### C++ Optimization
+[Pdf on Optimizing c++](http://www.agner.org/optimize/optimizing_cpp.pdf)
+
+[Wikibook on Optimizing c++](https://en.wikibooks.org/wiki/Optimizing_C%2B%2B)
+
 # C#
 [Learning C# from a C++ Background](https://msdn.microsoft.com/en-us/library/yyaad03b(v=vs.90).aspx?f=255&MSPPError=-2147217396)
 
@@ -152,11 +157,9 @@ Shows how very little you probably know about c++
 
 [Wikibook on x86 Assembly](https://en.wikibooks.org/wiki/X86_Disassembly)
 
-#### C++ Optimization
-[Pdf on Optimizing c++](http://www.agner.org/optimize/optimizing_cpp.pdf)
 
-[Wikibook on Optimizing c++](https://en.wikibooks.org/wiki/Optimizing_C%2B%2B)
-
+# Compilers
+[Compiler Construction](http://www-oldurls.inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf)
 
 # Game Resources
 
