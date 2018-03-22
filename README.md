@@ -93,6 +93,10 @@ Shows how very little you probably know about c++
 
 [Struct Packing](http://www.catb.org/esr/structure-packing/#_padding)
 
+[Branch Tables](https://en.wikipedia.org/wiki/Branch_table)
+
+[Switch Statements - Jump/Branch Tables](https://sites.google.com/site/arch1utep/jump-tables)
+
 [Cache Oblivious Algorithms](https://en.wikipedia.org/wiki/Cache-oblivious_algorithm)
 
 [Branch Prediction](https://en.wikipedia.org/wiki/Branch_predictor)
