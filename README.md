@@ -26,18 +26,16 @@ As of right now all the links and topics are just scatterd in this one file, but
 [Wikibooks on Computer Science](https://en.wikibooks.org/wiki/Subject:Computer_science)
 
 
-# Optimization links
+#Video Playlists
 
-[Youtube playlist on Optimization](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWPmA00yqu9wiCREj4Of_1F8)
+[Bitwise - Playlist](https://www.youtube.com/playlist?list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX)
 
-[Wikibook on x86 Assembly](https://en.wikibooks.org/wiki/X86_Disassembly)
+[Bitwise - Notes](https://github.com/pervognsen/bitwise)
 
-#### C++ Optimization
-[Pdf on Optimizing c++](http://www.agner.org/optimize/optimizing_cpp.pdf)
+[Handmade Hero - Playlist](https://www.youtube.com/user/handmadeheroarchive/videos?flow=grid&sort=da&view=0)
 
-[Wikibook on Optimizing c++](https://en.wikibooks.org/wiki/Optimizing_C%2B%2B)
 
-# C++ Resources
+# C/C++ Resources
 
 [C++ List of performance links](https://github.com/fenbf/AwesomePerfCpp)
 
@@ -135,6 +133,8 @@ Shows how very little you probably know about c++
 
 [More Slides on Allocation](http://www.scs.stanford.edu/07au-cs140/notes/l10.pdf)
 
+[Stretchy Buffers](https://github.com/nothings/stb/blob/master/stretchy_buffer.h)
+
 
 # Data Oriented Design
 
@@ -145,6 +145,17 @@ Shows how very little you probably know about c++
 [List of Resources](https://dataorientedprogramming.wordpress.com/)
 
 [Article on DOD](http://gamesfromwithin.com/data-oriented-design)
+
+# Optimization links
+
+[Youtube playlist on Optimization](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWPmA00yqu9wiCREj4Of_1F8)
+
+[Wikibook on x86 Assembly](https://en.wikibooks.org/wiki/X86_Disassembly)
+
+#### C++ Optimization
+[Pdf on Optimizing c++](http://www.agner.org/optimize/optimizing_cpp.pdf)
+
+[Wikibook on Optimizing c++](https://en.wikibooks.org/wiki/Optimizing_C%2B%2B)
 
 
 # Game Resources
