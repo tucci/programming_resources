@@ -84,7 +84,7 @@ Not saying you should do this, but still an interesting read.
 [Learning C# from a C++ Background](https://msdn.microsoft.com/en-us/library/yyaad03b(v=vs.90).aspx?f=255&MSPPError=-2147217396)
 
 
-# Low level 
+# Fundamentals
 
 [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
 
@@ -118,6 +118,9 @@ Not saying you should do this, but still an interesting read.
 
 [What every ... should know about Floating Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 
+[Floating Point Guide](http://floating-point-gui.de/)
+
+[Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 # Memory Management 
 
@@ -157,7 +160,6 @@ Not saying you should do this, but still an interesting read.
 
 
 
-
 # Data Oriented Design
 
 [Data Oriented Design - Online Book](http://www.dataorienteddesign.com/dodmain/)
@@ -182,9 +184,11 @@ Saving one copy of a string, then using pointer compares instead of string compa
 
 # Data structures
 
+[Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
+[Big O - Cheat Sheet](http://bigocheatsheet.com/)
+
 [Stretchy Buffers](https://github.com/nothings/stb/blob/master/stretchy_buffer.h)
-
-
 
 # Compilers
 [Compiler Construction](http://www-oldurls.inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf)
@@ -303,7 +307,11 @@ Interesting code practices to read about
 
 [Demofox](https://blog.demofox.org/)
 
+# Career/Interview
 
+[Interviews](https://github.com/kdn251/interviews)
+
+[Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 
 
