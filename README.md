@@ -52,6 +52,11 @@ Shows how very little you probably know about c++
 
 [Another Argument Dependent Lookup](https://stackoverflow.com/questions/8111677/what-is-argument-dependent-lookup-aka-adl-or-koenig-lookup)
 
+[Unions](https://en.wikipedia.org/wiki/Union_type#Anonymous_union)
+should be common knowledge
+
+[Examples of how unions are used](https://stackoverflow.com/questions/252552/why-do-we-need-c-unions)
+
 [rvalue,lvalue, etc - MSDN ref](https://docs.microsoft.com/en-us/cpp/cpp/lvalues-and-rvalues-visual-cpp)
 
 [rvalue, Lvalue, etc](https://stackoverflow.com/questions/3601602/what-are-rvalues-lvalues-xvalues-glvalues-and-prvalues)
@@ -63,6 +68,10 @@ Shows how very little you probably know about c++
 [Translation Units Video Explanation](https://www.youtube.com/watch?v=N4khTYkTwtI&index=4&list=PLRwVmtr-pp05Bl0j6lwXd8tU754nUEB5P)
 
 [Static/Dynamic Linking Video Explanation](https://www.youtube.com/watch?v=Jzh4ZULXsvo&list=PLRwVmtr-pp05Bl0j6lwXd8tU754nUEB5P&index=5)
+
+[Interesting read how to implement OOP in c](https://www.cs.rit.edu/~ats/books/ooc.pdf)
+Shows how OOP can be implemented and the inner workings in C.
+Not saying you should do this, but still an interesting read.
 
 #### C++ Optimization
 [Pdf on Optimizing c++](http://www.agner.org/optimize/optimizing_cpp.pdf)
@@ -105,7 +114,7 @@ Shows how very little you probably know about c++
 
 [Bit hacks](http://graphics.stanford.edu/~seander/bithacks.html)
 
-
+[What every ... should know about Floating Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 
 
 # Memory Management 
@@ -223,6 +232,8 @@ Look at all the gpu gems books
 [GTA 5 - Graphics Study](http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/)
 
 [Doom 2016 - Graphics Study](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)
+
+[Doom 2016 / idTech6 Rendering](http://advances.realtimerendering.com/s2016/Siggraph2016_idTech6.pdf)
 
 [Bioshock Infinite - Lighting](http://solid-angle.blogspot.ca/2014/03/bioshock-infinite-lighting.html)
 
