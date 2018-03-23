@@ -13,6 +13,8 @@ As of right now all the links and topics are just scatterd in this one file, but
 
 [Handmade Wiki](https://handmade.network/wiki)
 
+[List of things every programmer should know](https://github.com/mtdvio/every-programmer-should-know)
+
 [C++ List of performance links](https://github.com/fenbf/AwesomePerfCpp)
 
 [Data Oriented Design - Online Book](http://www.dataorienteddesign.com/dodmain/)
