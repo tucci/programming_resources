@@ -188,6 +188,8 @@ Saving one copy of a string, then using pointer compares instead of string compa
 
 [Big O - Cheat Sheet](http://bigocheatsheet.com/)
 
+[Bloom Filters](https://en.wikipedia.org/wiki/Bloom_filter)
+
 [Stretchy Buffers](https://github.com/nothings/stb/blob/master/stretchy_buffer.h)
 
 # Compilers
