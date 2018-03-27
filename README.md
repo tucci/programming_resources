@@ -124,6 +124,8 @@ Not saying you should do this, but still an interesting read.
 
 [AOS / SOA / AOSOA - Memory Layout Transforms](https://software.intel.com/en-us/articles/memory-layout-transformations)
 
+[Pointer Swizzling](https://en.wikipedia.org/wiki/Pointer_swizzling)
+
 # Memory Management 
 
 #### What every programmer should know about memory
@@ -236,6 +238,9 @@ Interesting to browse through
 Look at all the gpu gems books
 
 [Texture Tiling and Swizzling](https://fgiesen.wordpress.com/2011/01/17/texture-tiling-and-swizzling/)
+
+[Z-order Curve](https://en.wikipedia.org/wiki/Z-order_curve)
+Application: Allows texture tiles to be in the same cache line
 
 [EA STL](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2271.html)
 
