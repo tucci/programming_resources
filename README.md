@@ -122,7 +122,7 @@ Not saying you should do this, but still an interesting read.
 
 [Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
-[AOS/SOA](https://en.wikipedia.org/wiki/AOS_and_SOA)
+[AOS / SOA / AOSOA - Memory Layout Transforms](https://software.intel.com/en-us/articles/memory-layout-transformations)
 
 # Memory Management 
 
