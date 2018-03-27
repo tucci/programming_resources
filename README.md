@@ -122,6 +122,8 @@ Not saying you should do this, but still an interesting read.
 
 [Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
+[AOS/SOA](https://en.wikipedia.org/wiki/AOS_and_SOA)
+
 # Memory Management 
 
 #### What every programmer should know about memory
