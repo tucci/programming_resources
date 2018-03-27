@@ -172,6 +172,8 @@ Not saying you should do this, but still an interesting read.
 
 [Article on DOD](http://gamesfromwithin.com/data-oriented-design)
 
+[DOD in Unity 2018](https://www.twitch.tv/videos/242024723?t=01h34m26s)
+
 # Optimization links
 
 [Youtube playlist on Optimization](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWPmA00yqu9wiCREj4Of_1F8)
