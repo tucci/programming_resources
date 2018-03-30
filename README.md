@@ -324,6 +324,9 @@ Interesting code practices to read about
 
 [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
+# Podcasts
+[List of Podcasts](https://github.com/rShetty/awesome-podcasts)
+
 
 
 
