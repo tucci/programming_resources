@@ -184,19 +184,34 @@ Not saying you should do this, but still an interesting read.
 
 [Premature Optimzation](https://ubiquity.acm.org/article.cfm?id=1513451)
 
-[String Interning](https://en.wikipedia.org/wiki/String_interning)
-Saving one copy of a string, then using pointer compares instead of string compares
 
 
-# Data structures
+# Data structures / Algorithms
 
 [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 [Big O - Cheat Sheet](http://bigocheatsheet.com/)
 
+[Skip Lists](https://en.wikipedia.org/wiki/Skip_list)
+
+[Skip Lists Slides](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/skiplists.pdf)
+
+[Tries/Prefix Trees](https://en.wikipedia.org/wiki/Trie)
+
+[Ring Buffers](https://en.wikipedia.org/wiki/Circular_buffer)
+
 [Bloom Filters](https://en.wikipedia.org/wiki/Bloom_filter)
 
 [Stretchy Buffers](https://github.com/nothings/stb/blob/master/stretchy_buffer.h)
+
+[Octree](https://en.wikipedia.org/wiki/Octree)
+
+[Bsp Tree](https://en.wikipedia.org/wiki/Binary_space_partitioning)
+
+[String Interning](https://en.wikipedia.org/wiki/String_interning)
+Saving one copy of a string, then using pointer compares instead of string compares
+
+[Hash Consing](https://en.wikipedia.org/wiki/Hash_consing)
 
 # Compilers
 [Compiler Construction](http://www-oldurls.inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf)
