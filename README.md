@@ -204,6 +204,8 @@ Not saying you should do this, but still an interesting read.
 
 [Bloom Filters](https://en.wikipedia.org/wiki/Bloom_filter)
 
+[Merkle Trees](https://en.wikipedia.org/wiki/Merkle_tree)
+
 [Stretchy Buffers](https://github.com/nothings/stb/blob/master/stretchy_buffer.h)
 
 [Octree](https://en.wikipedia.org/wiki/Octree)
@@ -214,6 +216,13 @@ Not saying you should do this, but still an interesting read.
 Saving one copy of a string, then using pointer compares instead of string compares
 
 [Hash Consing](https://en.wikipedia.org/wiki/Hash_consing)
+
+[Collision Resolution for hash tables](https://en.wikipedia.org/wiki/Hash_table#Collision_resolution)
+
+Know the difference in performance over the other.
+Understand the birthday problem in terms of hash collisions.
+[Open addressing for hash tables](https://en.wikipedia.org/wiki/Open_addressing)
+
 
 # Compilers
 [Compiler Construction](http://www-oldurls.inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf)
