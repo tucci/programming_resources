@@ -221,6 +221,7 @@ Saving one copy of a string, then using pointer compares instead of string compa
 
 Know the difference in performance over the other.
 Understand the birthday problem in terms of hash collisions.
+
 [Open addressing for hash tables](https://en.wikipedia.org/wiki/Open_addressing)
 
 
