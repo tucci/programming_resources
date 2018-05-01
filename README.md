@@ -39,6 +39,8 @@ As of right now all the links and topics are just scatterd in this one file, but
 
 # C/C++ Resources
 
+[C99 ISO](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)
+
 [C++ List of performance links](https://github.com/fenbf/AwesomePerfCpp)
 
 [Effective C++ Book](https://www.amazon.ca/Effective-Specific-Improve-Programs-Designs/dp/0321334876)
