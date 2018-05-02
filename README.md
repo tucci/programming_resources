@@ -36,10 +36,18 @@ As of right now all the links and topics are just scatterd in this one file, but
 
 [Handmade Hero - Playlist](https://www.youtube.com/user/handmadeheroarchive/videos?flow=grid&sort=da&view=0)
 
+# C Resources
+[C99 ISO Draft](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)
 
-# C/C++ Resources
+[C Preprocessor](https://gcc.gnu.org/onlinedocs/cpp/index.html#Top)
 
-[C99 ISO](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)
+[Interesting read how to implement OOP in c](https://www.cs.rit.edu/~ats/books/ooc.pdf)
+Shows how OOP can be implemented and the inner workings in C.
+Not saying you should do this, but still an interesting read.
+
+[Enum Hack](http://www.ccplusplus.com/2012/01/enum-hack-c.html)
+ 
+# C++ Resources
 
 [C++ List of performance links](https://github.com/fenbf/AwesomePerfCpp)
 
@@ -51,6 +59,8 @@ Shows how very little you probably know about c++
 [Copy and Swap](https://stackoverflow.com/questions/3279543/what-is-the-copy-and-swap-idiom)
 
 [Move Semantics](https://stackoverflow.com/questions/3106110/what-are-move-semantics)
+
+# Similar things in C/C++
 
 [Argument Dependent Lookup](http://en.cppreference.com/w/cpp/language/adl)
 
@@ -65,17 +75,14 @@ should be common knowledge
 
 [rvalue, Lvalue, etc](https://stackoverflow.com/questions/3601602/what-are-rvalues-lvalues-xvalues-glvalues-and-prvalues)
 
-[C Preprocessor](https://gcc.gnu.org/onlinedocs/cpp/index.html#Top)
-
 [Translation Units](https://www.youtube.com/watch?v=N4khTYkTwtI&index=4&list=PLRwVmtr-pp05Bl0j6lwXd8tU754nUEB5P)
 
 [Translation Units Video Explanation](https://www.youtube.com/watch?v=N4khTYkTwtI&index=4&list=PLRwVmtr-pp05Bl0j6lwXd8tU754nUEB5P)
 
 [Static/Dynamic Linking Video Explanation](https://www.youtube.com/watch?v=Jzh4ZULXsvo&list=PLRwVmtr-pp05Bl0j6lwXd8tU754nUEB5P&index=5)
 
-[Interesting read how to implement OOP in c](https://www.cs.rit.edu/~ats/books/ooc.pdf)
-Shows how OOP can be implemented and the inner workings in C.
-Not saying you should do this, but still an interesting read.
+
+
 
 #### C++ Optimization
 [Pdf on Optimizing c++](http://www.agner.org/optimize/optimizing_cpp.pdf)
@@ -224,6 +231,8 @@ Understand the birthday problem in terms of hash collisions.
 
 [Open addressing for hash tables](https://en.wikipedia.org/wiki/Open_addressing)
 
+[Robin Hood Hashing](https://andre.arko.net/2017/08/24/robin-hood-hashing/)
+
 
 # Compilers
 [Compiler Construction](http://www-oldurls.inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf)
@@ -297,6 +306,9 @@ Bunch of videos/talks on different topics in the gaming industry
 [Pixar Research papers](http://graphics.pixar.com/library/index.html)
 
 
+# Math
+[Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry)
+
 
 # GPU/Multicore Programming
 [Caltech Course on GPU Programming](http://courses.cms.caltech.edu/cs179/)
@@ -344,6 +356,7 @@ Interesting code practices to read about
 [Bartek's Coding Blog](http://www.bfilipek.com/)
 
 [Demofox](https://blog.demofox.org/)
+
 
 # Career/Interview
 
