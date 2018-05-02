@@ -237,6 +237,8 @@ Understand the birthday problem in terms of hash collisions.
 # Compilers
 [Compiler Construction](http://www-oldurls.inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf)
 
+[Risc V Spec](https://riscv.org/specifications/)
+
 # Game Resources
 
 [Handmade Hero](https://www.youtube.com/user/handmadeheroarchive/videos?view=0&sort=da&flow=grid)
