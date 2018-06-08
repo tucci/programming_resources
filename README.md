@@ -239,6 +239,9 @@ Understand the birthday problem in terms of hash collisions.
 
 [Risc V Spec](https://riscv.org/specifications/)
 
+# Os
+[Write and OS](https://github.com/s-matyukevich/raspberry-pi-os)
+
 # Game Resources
 
 [Handmade Hero](https://www.youtube.com/user/handmadeheroarchive/videos?view=0&sort=da&flow=grid)
