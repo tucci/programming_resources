@@ -340,6 +340,8 @@ Now free
 [Intel Instinsics Guide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#expand=61)
 
 
+# Courses
+[Nand2Tetris](http://www.nand2tetris.org/course.php)
 
 # Other Great Resources
 
