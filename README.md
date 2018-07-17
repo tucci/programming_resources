@@ -135,6 +135,8 @@ should be common knowledge
 
 [Pointer Swizzling](https://en.wikipedia.org/wiki/Pointer_swizzling)
 
+[Bit masks / flags](http://www.learncpp.com/cpp-tutorial/3-8a-bit-flags-and-bit-masks/)
+
 # Memory Management 
 
 #### What every programmer should know about memory
