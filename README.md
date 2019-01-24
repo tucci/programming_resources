@@ -92,6 +92,10 @@ should be common knowledge
 # C#
 [Learning C# from a C++ Background](https://msdn.microsoft.com/en-us/library/yyaad03b(v=vs.90).aspx?f=255&MSPPError=-2147217396)
 
+# Multi threading
+
+[Handmade hero Explanation](https://hero.handmade.network/episode/code/day122/)
+Casey's videos on multithreading are really good. Even if you know nothing about multithreading.
 
 # Fundamentals
 
@@ -108,6 +112,8 @@ should be common knowledge
 [Locality Of Reference](https://en.wikipedia.org/wiki/Locality_of_reference)
 
 [Cache Lines](https://stackoverflow.com/questions/3928995/how-do-cache-lines-work)
+
+[False Sharing](https://en.wikipedia.org/wiki/False_sharing)
 
 [Alignment](https://en.wikipedia.org/wiki/Data_structure_alignment)
 
