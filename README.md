@@ -103,8 +103,15 @@ Casey's videos on multithreading are really good. Even if you know nothing about
 
 [Memory Fences/Barriers](https://en.wikipedia.org/wiki/Memory_barrier)
 To understand why this is needed, you need to know that modern cpus are out of order.
+
 [Out of Order Execution](https://en.wikipedia.org/wiki/Out-of-order_execution)
 Essentially both the compiler and cpu will re arrange instructions out of order for performance reasons.
+
+[Sempaphores](https://en.wikipedia.org/wiki/Semaphore_(programming))
+
+[Mutex](https://en.wikipedia.org/wiki/Mutual_exclusion)
+
+[Critical Sections](https://en.wikipedia.org/wiki/Critical_section)
 
 [Producer/Consumer](https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem)
 
