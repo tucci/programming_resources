@@ -58,7 +58,22 @@ Shows how very little you probably know about c++
 
 [Copy and Swap](https://stackoverflow.com/questions/3279543/what-is-the-copy-and-swap-idiom)
 
-[Move Semantics](https://stackoverflow.com/questions/3106110/what-are-move-semantics)
+
+# Ownership/Lifetimes
+
+[C++ Move Semantics](https://stackoverflow.com/questions/3106110/what-are-move-semantics)
+[C++ Smart Pointers] (https://www.youtube.com/watch?v=UOB7-B2MfwA&list=PL-TGaiL1hPUHSmjmY39JtsYZnhJoExxMY)
+[C++ Lifetimes] (https://en.cppreference.com/w/cpp/language/lifetime)
+this is a little complicated to understand. 
+I think Rust's documenation does a better job of explaining the concepts
+
+
+Rust has a great explanation about this stuff, and some of it also applies to C++
+[Rust Ownership] (https://doc.rust-lang.org/1.9.0/book/ownership.html)
+[Rust Borrowing] (https://doc.rust-lang.org/1.9.0/book/references-and-borrowing.html)
+[Rust Lifetimes] (hhttps://doc.rust-lang.org/1.9.0/book/lifetimes.html)
+
+
 
 # Similar things in C/C++
 
