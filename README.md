@@ -58,6 +58,14 @@ Shows how very little you probably know about c++
 
 [Copy and Swap](https://stackoverflow.com/questions/3279543/what-is-the-copy-and-swap-idiom)
 
+[Virtual keyword/Vtable/Vptr](https://en.wikipedia.org/wiki/Virtual_method_table)
+
+[More on Virtual keyword /Vtable/Vptr](https://www.learncpp.com/cpp-tutorial/125-the-virtual-table/)
+
+Essentially when you have a virtual method, your compiler will create a vtable for each class. 
+The vtable creates a mapping between each virtual method, and the address of where that method is stored.
+This is achieved by injecting a vptr at start of every instance of a class. The vptr is the size of a pointer. It is basically a pointer to the vtable for that class. So when you call a virtual method, you will need to follow 2 pointers. First is to reach through the vptr to get the vtable, then the second is reach through the method to get the function pointer.
+
 
 # Ownership/Lifetimes
 
