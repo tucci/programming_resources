@@ -146,6 +146,8 @@ Essentially both the compiler and cpu will re arrange instructions out of order 
 
 [Understading CPU Caches](https://en.wikipedia.org/wiki/CPU_cache)
 
+[Cache effects on performance](http://igoro.com/archive/gallery-of-processor-cache-effects/)
+
 [Virtual Memory](https://en.wikipedia.org/wiki/Virtual_memory)
 
 [Translation Lookaside Buffer](https://en.wikipedia.org/wiki/Translation_lookaside_buffer)
