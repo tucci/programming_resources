@@ -245,6 +245,8 @@ Essentially both the compiler and cpu will re arrange instructions out of order 
 
 [Premature Optimzation](https://ubiquity.acm.org/article.cfm?id=1513451)
 
+Code that demonstrates the hardware effects of low level knowledge
+[Hardware effects](https://github.com/Kobzol/hardware-effects)
 
 
 # Data structures / Algorithms
